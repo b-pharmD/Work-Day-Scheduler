@@ -24,3 +24,6 @@ https://www.w3schools.com/jquery/event_ready.asp
 http://learn.jquery.com/using-jquery-core/document-ready/
 https://www.tutorialsteacher.com/javascript/immediately-invoked-function-expression-iife
 https://softauthor.com/javascript-for-loop-click-event-issues-solutions/
+
+Help from instructor/Ta's:
+The instructor and TA's helped me by moving the block of javascript code located in lines 58-67. It was up higher and not executing properly.
