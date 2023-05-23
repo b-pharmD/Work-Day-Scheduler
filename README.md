@@ -22,3 +22,5 @@ https://www.w3schools.com/jquery/jquery_dom_add.asp
 https://www.w3schools.com/jsref/prop_win_localstorage.asp
 https://www.w3schools.com/jquery/event_ready.asp
 http://learn.jquery.com/using-jquery-core/document-ready/
+https://www.tutorialsteacher.com/javascript/immediately-invoked-function-expression-iife
+https://softauthor.com/javascript-for-loop-click-event-issues-solutions/
